@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512819077 source:c:\codeblocks_workplace\compiler\pl0.c
+	<stdlib.h>
+	<string.h>
+	"pl0.h"
+
+1512808099 c:\codeblocks_workplace\compiler\pl0.h
+	<stdio.h>
+

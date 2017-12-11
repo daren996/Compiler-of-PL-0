@@ -1,0 +1,12 @@
+const b=6;
+var a;
+procedure f;
+	var c,d;
+	begin
+		a:=3;
+		c:=3;
+		d:=a+c;	
+	end;
+begin
+call f;
+end.
