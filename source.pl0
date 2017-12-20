@@ -1,0 +1,17 @@
+const a=35, b=49;
+var c,d,e;
+procedure p;
+	var g;
+	begin
+		c := c + d;
+		if d < e then begin d := d + 1; call p end
+	end;
+begin
+	c := 0;
+	d := 1;
+	e := 10;
+	call p;
+	c := d;
+	d := 1;
+	if odd c then while c > 0 do begin d := d*c; c:= c - 1 end
+end.

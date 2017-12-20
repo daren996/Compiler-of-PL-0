@@ -7,3 +7,11 @@
 1512808099 c:\codeblocks_workplace\compiler\pl0.h
 	<stdio.h>
 
+1513777424 source:d:\git\compiler-of-pl-0\pl0.c
+	<stdlib.h>
+	<string.h>
+	"pl0.h"
+
+1513772395 d:\git\compiler-of-pl-0\pl0.h
+	<stdio.h>
+
